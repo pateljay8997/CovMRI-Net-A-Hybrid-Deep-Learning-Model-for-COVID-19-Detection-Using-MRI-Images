@@ -1,0 +1,2 @@
+# CovMRI-Net-A-Hybrid-Deep-Learning-Model-for-COVID-19-Detection-Using-MRI-Images
+This project introduces a new approach for COVID-19 detection using MRI images. Using the Xception_Catboost deep learning model to efficiently extract relevant features, we combined these with machine learning to enhance diagnostic accuracy, offering a reliable method in the lesser-explored MRI-based COVID-19 analysis field.
